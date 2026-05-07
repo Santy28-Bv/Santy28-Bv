@@ -50,7 +50,7 @@ I am also passionate about **smart devices** (Smart TVs, Smartwatches) and **IoT
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Santy28-Bv&theme=radical" width="49%" />
 </p>
 
-### 📫 Connect with me:
+## 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-alameda-sánchez-173841317)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Santy28bv/)
