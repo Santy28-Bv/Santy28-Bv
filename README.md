@@ -5,7 +5,7 @@
 #### 😎 About Me
 
 * 🌟 **T.S.U in Software Development and Multiplatform**
-* 🌟 **Currently pursuing a Software Engineering Degree**
+* 🌟 **Currently studying a Software Engineering Degree**
 * 🌟 **Interested in UX/UI for Smart Devices and IoT Projects**
 
 <br/>
