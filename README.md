@@ -43,7 +43,7 @@ I am also passionate about **smart devices** (Smart TVs, Smartwatches) and **IoT
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santy28-Bv&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-### ⭐Most Used Languages⭐
+## ⭐Most Used Languages⭐
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Santy28-Bv&theme=radical" width="49%" />
