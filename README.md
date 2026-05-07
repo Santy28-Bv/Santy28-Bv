@@ -49,11 +49,7 @@ I am also passionate about **smart devices** (Smart TVs, Smartwatches) and **IoT
 
 ### 📊 GitHub Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santy28-Bv&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santy28-Bv&show_icons=true&theme=radical)
-
-<br/>
 
 #### 📫 Connect with me:
 
