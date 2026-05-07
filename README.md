@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hola, soy Santiago Alameda (Santy28-Bv) 🚀
 
-<!--
-**Santy28-Bv/Santy28-Bv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub profile! 🗣️🔥
 
-Here are some ideas to get you started:
+#### 😎 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌟 **Associate Degree in Software Development and Multiplatform**
+* 🌟 **Currently pursuing a Software Engineering Degree**
+* 🌟 **Interested in UX/UI for Smart Devices and IoT Projects**
+
+<br/>
+
+#### 📱🎮 Development and Special Projects
+I am interested in **Mobile Development** for Android and **Web Development** with Django. 
+I am also passionate about **smart devices** (Smart TVs, Smartwatches) and **IoT Projects**, as well as **emulation** and **homebrew** development for video game consoles.
+
+<br/>
+
+#### 💻 Languages and Tools 
+
+<table>
+  <tr>
+    <td align="left"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,java,cpp,django,nodejs" /></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js" /></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" /></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,sqlite" /></td>
+  </tr>
+  <tr>
+    <td align="left"><b>IDEs</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,idea,pycharm" /></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Operating Systems</b></td>
+    <td><img src="https://skillicons.dev/icons?i=windows,ubuntu" /></td>
+  </tr>
+</table>
+
+<br/>
+
+### 📊 GitHub Stats
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santy28-Bv&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santy28-Bv&show_icons=true&theme=radical)
+
+<br/>
+
+#### 📫 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-alameda-sánchez-173841317)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Santy28bv/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santy28_bv/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagoalamedasanchez@gmail.com)
