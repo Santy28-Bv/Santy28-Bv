@@ -4,7 +4,7 @@
 
 #### 😎 About Me
 
-* 🌟 **Associate Degree in Software Development and Multiplatform**
+* 🌟 **T.S.U in Software Development and Multiplatform**
 * 🌟 **Currently pursuing a Software Engineering Degree**
 * 🌟 **Interested in UX/UI for Smart Devices and IoT Projects**
 
