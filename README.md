@@ -12,9 +12,7 @@
 I am interested in **Mobile Development** for Android and **Web Development** with Django. 
 I am also passionate about **smart devices** (Smart TVs, Smartwatches) and **IoT Projects**, as well as **emulation** and **homebrew** development for video game consoles.
 
-<br/>
-
-#### 💻 Languages and Tools 
+## 💻 Languages and Tools 
 
 <table>
   <tr>
