@@ -49,7 +49,24 @@ I am also passionate about **smart devices** (Smart TVs, Smartwatches) and **IoT
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santy28-Bv&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
+<br/>
+
+### 🛠️ Most Used Technologies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santy28-Bv&layout=donut&theme=radical&hide_border=true&count_private=true" alt="Top Languages by Repo" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santy28-Bv&layout=donut-vertical&theme=radical&hide_border=true&count_private=true" alt="Top Languages by Commit" height="200" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santy28-Bv&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="General Stats" />
+</p>
 
 #### 📫 Connect with me:
 
