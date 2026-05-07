@@ -8,8 +8,6 @@
 * 🌟 **Currently studying a Software Engineering Degree**
 * 🌟 **Interested in UX/UI for Smart Devices and IoT Projects**
 
-<br/>
-
 #### 📱🎮 Development and Special Projects
 I am interested in **Mobile Development** for Android and **Web Development** with Django. 
 I am also passionate about **smart devices** (Smart TVs, Smartwatches) and **IoT Projects**, as well as **emulation** and **homebrew** development for video game consoles.
