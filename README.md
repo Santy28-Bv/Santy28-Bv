@@ -29,7 +29,7 @@ I am also passionate about **smart devices** (Smart TVs, Smartwatches) and **IoT
   </tr>
   <tr>
     <td align="left"><b>IDEs & OS</b></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,androidstudio,windows,ubuntu" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,windows,ubuntu" /></td>
   </tr>
 
 </table>
